@@ -4,6 +4,12 @@ This project investigates how convolution stride settings influence feature extr
 
 ---
 
+## Running the Notebook
+Open the `.ipynb` file in Google Colab and run cells in order. 
+TensorFlow/Keras will automatically install the required dependencies.
+
+---
+
 ## 📘 Project Summary
 
 This study compares the following models:
