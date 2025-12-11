@@ -35,7 +35,7 @@ The results confirm that stride affects what the network learns in the early lay
 | File / Folder | Description |
 |---------------|-------------|
 | **Individual_Assignment_Machine_Learning_Tutorial_11_Dec.ipynb** | Full Colab notebook with model training, evaluation, and visualisations |
-| **tutorial.pdf** | Final written tutorial document |
+| **Tutorial.pdf** | Final written tutorial document |
 | **figures/** | Saved output images: accuracy/loss curves, confusion matrices, feature maps |
 | **README.md** | Project documentation and summary |
 
